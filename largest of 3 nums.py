@@ -5,10 +5,11 @@ def max_num(x,y):
     return y
 def max_num_three(x,y,z):
   return max_num(x,max_num(y,z))
-a=int(input())
-b=int(input())
-c=int(input())
-print(max_num_three(a,b,c))
+l,m,n=input().split()
+a=int(l)
+b=int(m)
+c=int(n)
+print(max_num_thre,b,c))
 
 
 
