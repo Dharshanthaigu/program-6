@@ -9,7 +9,7 @@ l,m,n=input().split()
 a=int(l)
 b=int(m)
 c=int(n)
-print(max_num_thre,b,c))
+print(max_num_three(a,b,c))
 
 
 
